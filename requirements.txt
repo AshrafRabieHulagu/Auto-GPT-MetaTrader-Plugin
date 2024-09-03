@@ -1,0 +1,14 @@
+black
+isort
+flake8
+pylint
+abstract-singleton
+wheel
+setuptools
+build
+twine
+requests
+auto-gpt-plugin-template
+numpy
+myfxbook
+Candlestick
